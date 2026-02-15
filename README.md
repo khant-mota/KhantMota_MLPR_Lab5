@@ -9,7 +9,7 @@ The goal is to:
 4. Classify the Template Image of Dr. Shashi Tharoor based on learned Clusters.
 
 # The Plaksha Faculty Image looks like this :
-![Plaksha_Faculty]("Faculty_Image.jpg")
+![Plaksha_Faculty](Faculty_Image.jpg)
 
 # The Detected faces are :
 ![Plaksha_Faculty_Detected_Faces]("/images/Plaksha_Faculty_detected_faces.png")
