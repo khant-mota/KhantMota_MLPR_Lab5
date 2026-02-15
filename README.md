@@ -22,3 +22,6 @@ The goal is to:
 
 # Plot of Hue vs Saturation of Dr Shashi Tharoor with Plaksha Faculty :
 ![Plot of Hue vs Saturation of Dr Shashi Tharoor with Plaksha Faculty](/images/DrShashiTharoorwithPlakshaFaculty.jpg)
+
+# Plot of Hue vs Saturation of Centroids of each Cluster along with Dr Shashi Tharoor Image :
+![Plot of Centroids of Clusters along with Dr Shashi Tharoor](/images/CentroidsofClusters+DrShashiTharoor.png)
